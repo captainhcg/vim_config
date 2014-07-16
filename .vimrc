@@ -1,7 +1,6 @@
 syntax on
 set nocompatible
 set showcmd
-set number
 
 set paste
 set cindent
