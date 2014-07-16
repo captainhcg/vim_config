@@ -1,7 +1,9 @@
 vim_config
 ==========
 
-my vim config
-<code>cd ~</code>
-<code>ln -s .vim/.vimrc .</code>
+Dont forget
+```
+cd ~
+ln -s .vim/.vimrc .
+```
 
