@@ -3,7 +3,7 @@ vim_config
 
 Dont forget
 ```
-cd ~
+mv vim_config .vim
 ln -s .vim/.vimrc .
 ```
 
